@@ -9,4 +9,5 @@
 3. 添加了随机图片库  234 张图片包含原有的，模板名称 dailynote-mypic
 4. [图片地址](https://github.com/LaneDu/SiYuan-Pic/tree/main/pic)是存在 GitHub 可能加载速度不够快
 
-![image.png](/Users/dulane/Documents/Typora/assets/image-20210704210350-dpfae7b.png)
+![](https://cdn.nlark.com/yuque/0/2021/png/21376548/1625412027429-746af281-9110-440d-b1fd-088c9d1b7c9a.png?x-oss-process=image%2Fresize%2Cw_1496)
+
