@@ -11,6 +11,7 @@
 5. 修改了todo
 6. 添加了todo-daily
 7. 修改了toc并改名为doc-list
+8. recent好像有问题，不过暂时没有删除
 
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/21376548/1625412027429-746af281-9110-440d-b1fd-088c9d1b7c9a.png?x-oss-process=image%2Fresize%2Cw_1496)
