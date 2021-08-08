@@ -1,14 +1,46 @@
+# 模板名称Me
+
+>模板名称 Me
+>
+>主题名称 Knowledge Brain
+>
+>订阅推荐码：X0sndna 感觉不错，订阅思源的时候可以支持一下，早买早享受！
+>
+>思源官网：https://b3log.org/siyuan/
+>
+>思源社区：https://ld246.com/domain/siyuan
+
+### 模板介绍
+
+1. 模板是在Meteor的基础进行添加修改的
+2. 我不会 go 也没时间去看 spring 的函数，没有做太大的改动，但是改动依然花费了很多时间
+3. 应该有很多人自己添加修改模板 ，只是没有选择分享出来
+4. 希望多一些分享，发扬下人人为我，我为人人的精神
+
+### 8月8号更新
+
+1. 修改了live2dm1为live2d-m1
+2. 添加了live2d-m3为网易云轻音乐[歌单地址](https://music.163.com/#/my/m/music/playlist?id=368529707)：https://music.163.com/#/my/m/music/playlist?id=368529707
+
 ### 8月5号更新内容
 
-1、主题代码行号改为固定大小
+首恭喜中国乒乓女团夺得冠军 🏆，香港女团夺得季军
 
-2、去掉了iframe的边界线
+1. 模板添加了live2d系列3个
 
-3、模板添加了live2d系列3个
+2. 具体请看下面的live2d介绍
 
-4、等思源的组件出来之后，估计用户可以自定义歌单
+3. 在dailynote那个模板上添加了日记快捷方式操作
 
-### Live Second Dimension（live2d）介绍
+#### Live Second Dimension（live2d）介绍
+
+这次更新的内容分别是 live2d 、live2d-m1、live2d-m2
+
+live2d 是动态的二次元人物
+
+live2d-m1（漏了个-）则是在 live2d 的基础上添加了 音乐播放，目前的歌单是我的一个网易云音乐歌单，等以后思源有了 widget 应该可以自定义歌单
+
+live2d-m2 是在 live2d 的基础上添加了一个第三方的音乐 H5 播放器，可以自己选择歌单，但是缺点明显 **免费用户只能有一个显示音乐播放器**
 
 #### live2d
 
@@ -19,9 +51,9 @@
 
 ![image.png](https://b3logfile.com/siyuan/1619927307428/assets/image-20210805173138-eprrbki.png)
 
-#### live2dm1
+#### live2d-m1
 
-> 播放器的内容来自我网易云音乐的歌单 https://music.163.com/#/my/m/music/playlist?id=2235447397
+> 播放器的内容来自我网易云音乐的歌单https://music.163.com/#/playlist?id=606641571
 >
 > 源码来自 https://github.com/metowolf/MetingJS#quick-start 可以自己定制
 >
@@ -47,17 +79,9 @@
 
 ![image.png](https://b3logfile.com/siyuan/1619927307428/assets/image-20210805173255-bymh0jk.png)
 
-### 模板名称 Me
+### 7月4日模板初次添加
 
-#### 简单介绍
-
-1. 把两个已有的模板整合成了一个，说抄袭也可以哦，我没有任何收益的，只是想分享一下
-2. 我不会 go 也没时间去看 spring 的函数，没有做太大的改动，但是改动依然花费了大半天时间
-3. 保留了原有的功能，如果原先模板的不添加新功能，那么可以删掉原有的那两个
-4. 我算是才刚开始用，应该有很多自己修改模板的人 ，更好的模板只是没有选择分享出来
-5. 希望多一些分享，发扬下人人为我，我为人人的精神
-
-#### 修改内容
+#### 修改内容介绍
 
 1. 修改模板名称原先的是 Meteor 有点长，改成了 Me
 2. 修改了每一个模板命名，原有的每次都不知道什么意思，现在的见名知意
@@ -90,39 +114,5 @@
 
 ![image.png](https://b3logfile.com/siyuan/1619927307428/assets/image-20210706111135-lt1nmvb.png)
 
-### 主题名称 Tsundoku change
 
-#### 简单介绍
 
-1. 先吐槽下这个日语名字 Tsundoku，发音和意思真的难
-2. 根据名字也知道，这是在思源刚更新 1.2 版本的时候，原先的模板样式没了，这个 Tsundoku 不错
-3. 根据 Tsundoku light 修改的，这次顺便一起提到了集市
-4. 如果以后再更新，可能会改个名字
-5. 我现在比较喜欢的主题有 [Sci-Fi](https://github.com/VIWZ/Sci-Fi)、Room、Wave、Tsundoku
-6. Tsundoku 十分流畅，Sci-Fi 主题特别炫酷，可是太卡了，难以使用，向作者提了 issues，不知道能否优化下
-
-#### 修改内容
-
-1. 标题颜色
-2. 引用颜色
-3. 代码块背景
-4. 标签颜色
-5. 等等
-
-#### 图片展示
-
-![image.png](https://b3logfile.com/siyuan/1619927307428/assets/image-20210706112905-h93nlox.png)
-
-### 结语
-
-现在可以去集市上下载体验下了
-
-模板名称 Me
-
-主题名称 Tsundoku Change
-
-订阅推荐码：X0sndna 有需要的可以支持一下思源，早买早享受！
-
-思源官网：https://b3log.org/siyuan/
-
-思源社区：https://ld246.com/domain/siyuan
