@@ -35,7 +35,13 @@
 
 .action{/*输出双链*/}
 .action{range $listItem:=$filePathList}
-##### .action{trimAll "/" $listItem}
+.action{$title:=trimAll "/" $listItem}
+.action{if contains "/" $title }
+.action{$title =splitn "/" 3 $listItem}
+.action{$title = $title._2}
+.action{end}
+
+##### .action{trimAll "/" $title}
 	.action{range $v:=$block}
 	
 	.action{$filePath = (regexFind  $regexDirPath  $v.Path )}

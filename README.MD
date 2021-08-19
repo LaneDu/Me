@@ -17,6 +17,22 @@
 3. 应该有很多人自己添加修改模板 ，只是没有选择分享出来
 4. 希望多一些分享，发扬下人人为我，我为人人的精神
 
+### 8月19号更新
+
+在Info_Catalogue.md的模板的基础修改添加了两个目录模板doc-list、doc-list-folder
+
+列出当前文件及其子文件夹下所有的笔记的双链引用
+
+排序方式按照字母或者数字递增自然顺序排序
+
+两种的区别如下
+
+1. doc-list 会显示第一层文件夹名称
+2. doc-list-folder 不会显示第一层文件夹名称
+3. 效果图如下
+
+![image.png](https://b3logfile.com/siyuan/1619927307428/assets/image-20210819213503-yduakq8.png)
+
 ### 8月8号更新
 
 1. 修改了live2dm1为live2d-m1
