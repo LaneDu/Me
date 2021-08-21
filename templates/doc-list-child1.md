@@ -17,16 +17,16 @@
 .action{/*"输出双链"*/}
 	.action{$b :=""}
 	.action{range $v:=$block}
+
   .action{$c := $v.HPath | replace $filePath " " }
   .action{$c  = trimAll " / " $c}
 	.action{$a := split "/" $c}
 	.action{range $a1:=$a}
- 	.action{$b = list $b " " | join " "}
+ 	.action{$b =cat $b "-" " "}
 	.action{end} 
-
- .action{list $b "" | join "- "}((.action{$v.ID}))
-
-
+  .action{$b = $b | replace "-" " " }
+  .action{$b =cat $b "📙" " "}
+.action{$b} ((.action{$v.ID}))
 .action{$b =""}
 .action{end}
 
