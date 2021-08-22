@@ -25,7 +25,10 @@
  	.action{$b =cat $b "-" " "}
 	.action{end} 
   .action{$b = $b | replace "-" " " }
-  .action{$b =cat $b "📙" " "}
+    .action{$b = trimPrefix " " $b}
+    .action{$b = trimPrefix " " $b}
+    .action{$b = trimPrefix " " $b}
+  .action{$b =cat $b "📙" ""}
 .action{$b} ((.action{$v.ID}))
 .action{$b =""}
 .action{end}
